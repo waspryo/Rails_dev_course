@@ -1,24 +1,9 @@
-# README
+1) Create a new Rails application and call it alpha-blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+2) Ensure you can run the server and preview the application
 
-Things you may want to cover:
+3) Page Controller
 
-* Ruby version
+4) Ensure you have appropriate routes
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+5) Create a homepage, about
