@@ -1,0 +1,23 @@
+current directory: /Users/wasp/Desktop/My_Project/Ruby on Rails dev-course/Rails_projects/test_app/vendor/bundle/ruby/2.5.0/gems/ffi-1.11.1/ext/ffi_c
+/Users/wasp/.rbenv/versions/2.5.0/bin/ruby -I /Users/wasp/.rbenv/versions/2.5.0/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190729-90016-ro4uyj.rb extconf.rb
+checking for ffi.h... no
+checking for ffi.h in /usr/local/include,/usr/include/ffi... yes
+checking for ffi_call() in -lffi... yes
+checking for ffi_closure_alloc()... no
+checking for shlwapi.h... no
+checking for rb_thread_call_without_gvl()... yes
+checking for ruby_native_thread_p()... yes
+checking for ruby_thread_has_gvl_p()... yes
+creating extconf.h
+creating Makefile
+
+current directory: /Users/wasp/Desktop/My_Project/Ruby on Rails dev-course/Rails_projects/test_app/vendor/bundle/ruby/2.5.0/gems/ffi-1.11.1/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /Users/wasp/Desktop/My_Project/Ruby on Rails dev-course/Rails_projects/test_app/vendor/bundle/ruby/2.5.0/gems/ffi-1.11.1/ext/ffi_c
+make "DESTDIR="
+/bin/sh: -c: line 0: unexpected EOF while looking for matching `"'
+/bin/sh: -c: line 1: syntax error: unexpected end of file
+make: *** ["/Users/wasp/Desktop/My_Project/Ruby] Error 2
+
+make failed, exit code 2
